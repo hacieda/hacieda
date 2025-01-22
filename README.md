@@ -31,6 +31,6 @@ I specialize in identifying vulnerabilities and securing systems while actively 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/367px-BurpSuite_Comunity_Edition.svg.png" alt="BurpSuite" height="40px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" height="45px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://www.wireshark.org/assets/img/wireshark-logo-light.png" alt="WireShark" width="130" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://brightsec.com/wp-content/uploads/2022/01/owasp-zap-1024x398.png" alt="Zap" height="45px"/>
+  <img src="https://brightsec.com/wp-content/uploads/2022/01/owasp-zap-1024x398.png" alt="Zap" height="40px"/>
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker"  width="90" height="45"/>
 </div>
